@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An app that allows volunteers that help the homeless to keep track of what other volunteers have already distributed to various locations occupied by the homeless.  The users will also be able to create and update a database with necessities such as clothing items, toiletries and/or food products that they gave out on particular dates and times.  Users will also be able to make a recommendation for a new location to be added to an existing route.  However, any new locations can only be added by an administrator. 
 ### Features
-Include Features here
+Admin Login
+User Login
+User Input
+Location Search
+Google Maps
+Comments Section
 ### Technologies
-Include Technologies here
-
+Python 
+Django
+SQLAlchemy
+Jinja2
+Javascript
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+Django
+Javascript
+How to access the Google Maps API
+### Project Tracker
+[GitHub Projects](https://github.com/cagill3/liftoff-assignments/projects/1)
