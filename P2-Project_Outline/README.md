@@ -18,7 +18,7 @@ Comments Section
 ### Technologies
 Python    
 Django   
-Jinja2
+Jinja2   
 Bootstrap  
 Javascript   
 MySQL
