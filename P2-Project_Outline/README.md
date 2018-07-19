@@ -19,7 +19,7 @@ Comments Section
 Python    
 Django   
 Jinja2
-Bootstrap
+Bootstrap  
 Javascript   
 MySQL
 ### What I'll Have to Learn
