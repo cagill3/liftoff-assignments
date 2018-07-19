@@ -18,12 +18,13 @@ Comments Section
 ### Technologies
 Python    
 Django   
-Jinja2   
+Jinja2
+Bootstrap
 Javascript   
 MySQL
 ### What I'll Have to Learn
 Django   
 Javascript   
-How to access the Google Maps API
+How to integrate Google Maps
 ### Project Tracker
 [GitHub Projects](https://github.com/cagill3/liftoff-assignments/projects/1)
