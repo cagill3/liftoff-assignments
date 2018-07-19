@@ -12,7 +12,7 @@ An app that allows volunteers that help the homeless to keep track of what other
 Admin Login   
 User Login   
 User Input   
-Location Search   
+Search   
 Google Maps   
 Comments Section
 ### Technologies
