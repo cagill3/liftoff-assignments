@@ -27,4 +27,4 @@ Django
 Javascript   
 How to integrate Google Maps
 ### Project Tracker
-[GitHub Projects](https://github.com/cagill3/liftoff-assignments/projects/1)
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2185447)
