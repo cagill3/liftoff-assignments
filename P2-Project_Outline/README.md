@@ -15,7 +15,8 @@ Search
 Google Maps   
 Comments Section
 ### Technologies
-Java    
+Java 
+
 Spring Boot 
   - For creating models, views and controllers
   
