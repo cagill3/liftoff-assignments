@@ -17,10 +17,10 @@ Google Maps
 Comments Section
 ### Technologies
 Java
-Spring
-Bootstrap  
-Javascript
-React
+Spring   
+Bootstrap   
+Javascript   
+React   
 MySQL
 ### What I'll Have to Learn   
 Javascript
