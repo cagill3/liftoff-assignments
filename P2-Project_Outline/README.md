@@ -8,20 +8,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 An app that allows volunteers that help the homeless to keep track of what other volunteers have already distributed to various locations occupied by the homeless.  The users will also be able to create and update a database with necessities such as clothing items, toiletries and/or food products that they gave out on particular dates and times.  Users will also be able to make a recommendation for a new location to be added to an existing route.  However, any new locations can only be added by an administrator. 
-### Features
-Admin Login   
-User Login   
-User Input   
+### Features   
+User Login/Signup 
+  - Landing page. Allow user to sign in with username and password. If user has no account the option to shin      
 Search   
 Google Maps   
 Comments Section
 ### Technologies
 Java    
-Spring Boot - For creating models, views and controllers  
-Bootstrap - For HTML/CSS designs   
-Javascript - To make views dynamic   
-React - To build user interface    
-MySQL - For data storage 
+Spring Boot 
+  - For creating models, views and controllers  
+Bootstrap 
+  - For HTML/CSS designs   
+Javascript 
+  - To make views dynamic   
+React 
+  - To build user interface    
+MySQL 
+  - For data storage 
 ### What I'll Have to Learn   
 Javascript   
 React    
