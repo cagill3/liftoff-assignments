@@ -12,8 +12,11 @@ An app that allows volunteers that help the homeless to keep track of what other
 User Login/Signup 
   - User sign in with username and password  
   - If no account user creates a new account      
+
 Search   
+
 Google Maps   
+
 Comments Section
 ### Technologies
 Java 
