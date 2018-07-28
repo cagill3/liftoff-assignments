@@ -17,7 +17,7 @@ Google Maps
 Comments Section
 ### Technologies
 Java    
-Spring Web MVC framework - For creating models, views and controllers  
+Spring Boot - For creating models, views and controllers  
 Bootstrap - For HTML/CSS designs   
 Javascript - To make views dynamic   
 React - To build user interface    
