@@ -16,15 +16,15 @@ Search
 Google Maps   
 Comments Section
 ### Technologies
-Python    
-Django   
-Jinja2   
+Java
+Spring
 Bootstrap  
-Javascript   
+Javascript
+React
 MySQL
-### What I'll Have to Learn
-Django   
-Javascript   
+### What I'll Have to Learn   
+Javascript
+React
 How to integrate Google Maps
 ### Project Tracker
 [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2185447)
