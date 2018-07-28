@@ -8,16 +8,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 An app that allows volunteers that help the homeless to keep track of what other volunteers have already distributed to various locations occupied by the homeless.  The users will also be able to create and update a database with necessities such as clothing items, toiletries and/or food products that they gave out on particular dates and times.  Users will also be able to make a recommendation for a new location to be added to an existing route.  However, any new locations can only be added by an administrator. 
-### Features   
+### Features
+Admin Login/Signup  
+  - User-admin sign in with username and password
+  - If no account user-admin create a new account
 User Login/Signup 
   - User sign in with username and password  
-  - If no account user creates a new account      
+  - If no account user creates a new account 
 
-Search   
+Search
+  - User search for information about specific stops on a route 
 
-Google Maps   
+Google Maps
+  - User gets location of stops on a route
+  - User sees photos for visual confirmation of stop locations
 
-Comments Section
+Comments Section  
+  - User can leave comments for admin-user or other users
 ### Technologies
 Java 
 
