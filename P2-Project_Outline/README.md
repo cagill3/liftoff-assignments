@@ -17,11 +17,11 @@ Google Maps
 Comments Section
 ### Technologies
 Java   
-Spring   
-Bootstrap   
-Javascript   
-React   
-MySQL
+Spring MVC - For creating models, views and controllers  
+Bootstrap - For HTML/CSS designs   
+Javascript - To make views dynamic   
+React - To build user interface    
+MySQL - For data storage 
 ### What I'll Have to Learn   
 Javascript   
 React    
