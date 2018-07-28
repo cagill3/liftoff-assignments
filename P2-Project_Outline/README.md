@@ -16,7 +16,7 @@ Search
 Google Maps   
 Comments Section
 ### Technologies
-Java
+Java   
 Spring   
 Bootstrap   
 Javascript   
