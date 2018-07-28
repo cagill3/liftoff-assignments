@@ -18,12 +18,16 @@ Comments Section
 Java    
 Spring Boot 
   - For creating models, views and controllers
+  
 Bootstrap 
   - For HTML/CSS designs
+  
 Javascript 
   - To make views dynamic
+  
 React 
-  - To build user interface  
+  - To build user interface 
+  
 MySQL 
   - For data storage 
 ### What I'll Have to Learn   
