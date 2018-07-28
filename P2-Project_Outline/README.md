@@ -12,26 +12,35 @@ An app that allows volunteers that help the homeless to keep track of what other
 Admin Login/Signup  
   - User-admin sign in with username and password
   - If no account user-admin create a new account
+  
 User Login/Signup 
   - User sign in with username and password  
-  - If no account user creates a new account 
+  - If no account user creates a new account
+  
 Search
-  - User search for information about specific stops on a route 
+  - User search for information about specific stops on a route
+  
 Google Maps
   - User gets location of stops on a route
   - User sees photos for visual confirmation of stop locations
+  
 Comments Section  
   - User can leave comments for admin-user or other users
 ### Technologies
-Java 
+Java
+
 Spring Boot 
-  - For creating models, views and controllers  
+  - For creating models, views and controllers
+  
 Bootstrap 
-  - For HTML/CSS designs  
+  - For HTML/CSS designs
+  
 Javascript 
-  - To make views dynamic  
+  - To make views dynamic
+  
 React 
-  - To build user interface   
+  - To build user interface
+  
 MySQL 
   - For data storage 
 ### What I'll Have to Learn   
