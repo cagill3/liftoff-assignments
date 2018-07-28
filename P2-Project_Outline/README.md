@@ -26,7 +26,7 @@ Search
   - User searches for information about specific stops on a route
   
 Google Maps
-  - User gets location of stops on a route
+  - User gets locations of stops on a route
   - User sees photos for visual confirmation of stop locations
   
 Comments Section  
