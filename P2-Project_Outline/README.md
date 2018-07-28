@@ -23,8 +23,8 @@ Javascript
 React   
 MySQL
 ### What I'll Have to Learn   
-Javascript
-React
+Javascript   
+React    
 How to integrate Google Maps
 ### Project Tracker
 [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2185447)
