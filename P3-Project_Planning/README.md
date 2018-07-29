@@ -7,9 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-- [Signup form](street-patrol/user_signup_form.pdf)
-- [Admin login form](street-patrol/admin_login.pdf)  
-- [User login form](street-patrol/user_login_form.pdf)  
+- [Signup form](https://github.com/cagill3/street-patrol/blob/master/user_signup_form.pdf)
+- [Admin login form](https://github.com/cagill3/street-patrol/blob/master/admin_login.pdf)  
+- [User login form](https://github.com/cagill3/street-patrol/blob/master/user_login_form.pdf)  
 
 ### Project Tracker
 
